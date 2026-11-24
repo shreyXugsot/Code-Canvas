@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CodeCanvas</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_projects">Projects</string>
+    <string name="nav_library">Snippets</string>
+    <string name="nav_settings">Settings</string>
+    <string name="action_new_project">New project</string>
+    <string name="action_new_file">New file</string>
+    <string name="action_new_folder">New folder</string>
+    <string name="action_save">Save</string>
+    <string name="action_run">Run</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_shell">Shell</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_rename">Rename</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_favorite">Toggle favorite</string>
+    <string name="cd_search">Search</string>
+    <string name="cd_more_options">More options</string>
+</resources>
